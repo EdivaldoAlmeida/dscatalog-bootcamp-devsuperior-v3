@@ -1,7 +1,5 @@
 package com.devsuperior.DSCatalog.DevSuperior.resources.exceptions;
 
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.request;
-
 import java.time.Instant;
 
 import javax.servlet.http.HttpServletRequest;
